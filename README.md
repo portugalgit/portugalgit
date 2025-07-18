@@ -6,6 +6,8 @@
 - 📧 [acelso.emenio@gmail.com](mailto:acelso.emenio@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/afonso-c-272b3254)
 
+🛠️ Linguagens & Ferramentas :
+
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
