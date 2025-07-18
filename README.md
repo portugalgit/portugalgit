@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker,wowza,nordija)](https://skillicons.dev)
 
-<img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="50"/>
+<img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
 
 
 ## MEUS PROJECTOS DISPONIVEL PARA TODOS 
