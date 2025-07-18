@@ -18,7 +18,7 @@
 ## MEUS PROJECTOS DISPONIVEL PARA TODOS 
 📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
-## CERTIFICATED 
+
 
 
 
