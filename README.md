@@ -3,7 +3,8 @@
 🔗 [Meu Portfólio](https://acaluege.github.io/portfolio/)
 
 📫Entrar em contato:
-Email : acelso.emenio@gmail.com
+- 📧 [acelso.emenio@gmail.com](mailto:acelso.emenio@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/afonso-c-272b3254)
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
@@ -17,39 +18,8 @@ Email : acelso.emenio@gmail.com
 
 ## CERTIFICATED 
 
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Nagios_logo.svg" alt="Nagios Logo" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:Zabbix_logo_square.svg" alt="Zabbix Logo" height="50"/>
-</p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-
-💻 My favourite languages: Node.js, Typescript, Go, Rust (adopting)  
-📚 My favourite stack: [Next.js](https://nextjs.org), [Bun](https://bun.sh), [Fiber](https://gofiber.io), [NestJS](https://nestjs.com), [jotai](https://jotai.org), [Serverless](https://www.serverless.com)  
-📖 My favourite books: _"INSPIRED"_, _"The Lean Product"_, _"Clean Code"_, _"Clean Architecture"_, _"Don't Make Me Think"_  
-🛠️ My favourite tools: [Zed](https://zed.dev), [Notion](https://notion.so), [Figma](https://figma.com), [RapidAPI](https://rapidapi.com), [Raycast](https://raycast.com)  
-
 📫 How to reach me:  
-- 📧 [ole3021@gmail.com](mailto:ole3021@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-nome-aqui)
+
 
 ---
 
