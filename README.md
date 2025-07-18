@@ -22,7 +22,7 @@
 <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
 
 ## MEUS PROJECTOS 
-📦 [Loja](https://github.com/portugalgit/eshop)  - 📦 [Escola](https://github.com/portugalgit/akival)
+🛒 [Loja](https://github.com/portugalgit/eshop) 🏫 [Escola](https://github.com/portugalgit/akival)
 
 
 
