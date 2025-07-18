@@ -13,7 +13,7 @@
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker,wowza,nordija)](https://skillicons.dev)
 
 ## MEUS PROJECTOS DISPONIVEL PARA TODOS 
 📦 [Loja](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
