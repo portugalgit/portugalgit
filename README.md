@@ -17,7 +17,8 @@
 
 🛠️ Ferramentas IPTV:
 <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
-<img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/icons/nordija.png" alt="Nordija" height="40"/>
+<img src="icons/nordija.png" alt="Nordija" height="40"/>
+
 
 
 
