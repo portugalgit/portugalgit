@@ -6,7 +6,7 @@
 - 📧 [acelso.emenio@gmail.com](mailto:acelso.emenio@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/afonso-c-272b3254)
 
-🛠️ Linguagens & Ferramentas :
+🛠️ **Programação & Ferramentas:**
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker,wowza,nordija)](https://skillicons.dev)
 
-🛠️ Ferramentas IPTV:
+🛠️ **Televisão IPTV:**
 
 <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
 
