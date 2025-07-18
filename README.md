@@ -13,7 +13,7 @@
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,git,js,html,css,aws,docker,nginx)](https://skillicons.dev)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux Linux" width="40"/>
 
