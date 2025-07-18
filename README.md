@@ -24,7 +24,7 @@
 ## MEUS PROJECTOS 
 📦 [Loja](https://github.com/portugalgit/eshop)  — Loja online em desenvolvimento com Php, html, css e js.
 
-📦 [Loja](https://github.com/portugalgit/akival) — Escola online em desenvolvimento com Php, html, css e js.
+📦 [Escola](https://github.com/portugalgit/akival) — Escola online em desenvolvimento com Php, html, css e js.
 
 
 
