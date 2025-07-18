@@ -2,9 +2,8 @@
 🧠 Tenho uma vasta experiência em metodologia Agile, monitoramento de sistemas: Nagios, Zabbix, construção de dashboard e análise de audiometria: ELK, administração de sistemas Linux e Windows, arquitetura em AWS, construção de containers, virtualização de máquinas, criação de scripts, segurança em firewalls: Fortigate e PaloAlto, versionamento de códigos, experiência prática em televisão sobre IP, Wowza Streams, programação baseado na arquitetura MVC etc.
 🔗 [Meu Portfólio](https://acaluege.github.io/portfolio/)
 
-📫How to reach me:
-LinkedIn : Celso
-Email : acelso.emeniok@gmail.com
+📫Entrar em contato:
+Email : acelso.emenio@gmail.com
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
