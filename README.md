@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker)](https://skillicons.dev)
 
 ## MEUS PROJECTOS DISPONIVEL PARA TODOS 
-📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
+📦 [Loja](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
 
 
