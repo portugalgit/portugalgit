@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 ## SOBRE MIM 👋
 🧠 Tenho uma vasta experiência em metodologia Agile, monitoramento de sistemas: Nagios, Zabbix, construção de dashboard e análise de audiometria: ELK, administração de sistemas Linux e Windows, arquitetura em AWS, construção de containers, virtualização de máquinas, criação de scripts, segurança em firewalls: Fortigate e PaloAlto, versionamento de códigos, experiência prática em televisão sobre IP, Wowza Streams, programação baseado na arquitetura MVC etc.
 
+🔭 Monitoramento: 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Nagios_logo.png" alt="Nagios Logo" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Zabbix_logo.svg" alt="Zabbix Logo" height="50"/>
+</p>
+
+
 💻 My favourite languages: Node.js, Typescript, Go, Rust (adopting)  
 📚 My favourite stack: [Next.js](https://nextjs.org), [Bun](https://bun.sh), [Fiber](https://gofiber.io), [NestJS](https://nestjs.com), [jotai](https://jotai.org), [Serverless](https://www.serverless.com)  
 📖 My favourite books: _"INSPIRED"_, _"The Lean Product"_, _"Clean Code"_, _"Clean Architecture"_, _"Don't Make Me Think"_  
