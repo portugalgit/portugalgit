@@ -12,6 +12,7 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
+![Proxmox](https://img.shields.io/badge/Proxmox-vms-yellow)
 
 [![My Skills](https://skillicons.dev/icons?i=php,git,js,html,css,aws,docker,nginx)](https://skillicons.dev)
 
