@@ -8,6 +8,13 @@
 📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
 
+![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
+![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
+![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
+![pfSense](https://img.shields.io/badge/pfSense-firewall-blue)
+
+
+
 
 
 
