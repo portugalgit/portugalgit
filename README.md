@@ -1,8 +1,12 @@
-## SOBRE MIM 👋
+## ABOUT ME 👋
 🧠 Tenho uma vasta experiência em metodologia Agile, monitoramento de sistemas: Nagios, Zabbix, construção de dashboard e análise de audiometria: ELK, administração de sistemas Linux e Windows, arquitetura em AWS, construção de containers, virtualização de máquinas, criação de scripts, segurança em firewalls: Fortigate e PaloAlto, versionamento de códigos, experiência prática em televisão sobre IP, Wowza Streams, programação baseado na arquitetura MVC etc.
 🔗 [Meu Portfólio](https://acaluege.github.io/portfolio/)
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker)](https://skillicons.dev)
+
+## FREE PROJECT OPEN SOURCE 👋
+📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
+
 
 
 
