@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Nagios_logo.svg" alt="Nagios Logo" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Zabbix_logo.svg" alt="Zabbix Logo" height="50"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Zabbix_logo_square.svg" alt="Zabbix Logo" height="50"/>
 </p>
 
 
