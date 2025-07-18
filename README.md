@@ -15,6 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker,wowza,nordija)](https://skillicons.dev)
 
+<img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="40"/>
+
+
 ## MEUS PROJECTOS DISPONIVEL PARA TODOS 
 📦 [Loja](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
