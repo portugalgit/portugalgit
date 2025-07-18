@@ -3,7 +3,7 @@
 🔗 [Meu Portfólio](https://acaluege.github.io/portfolio/)
 
 📫How to reach me:
-LinkedIn : Nikoo Asadnejad
+LinkedIn : Celso
 Email : acelso.emeniok@gmail.com
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
