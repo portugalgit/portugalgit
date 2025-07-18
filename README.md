@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 Monitoramento: 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Nagios_logo.png" alt="Nagios Logo" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Nagios_logo.svg" alt="Nagios Logo" height="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Zabbix_logo.svg" alt="Zabbix Logo" height="50"/>
 </p>
