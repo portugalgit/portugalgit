@@ -9,9 +9,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,aws,docker)](https://skillicons.dev)
 
-## FREE PROJECT OPEN SOURCE 👋
+## PROJECT OPEN SOURCE 
 📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
+## CERTIFICATED 
+📜 ![LPI](https://upload.wikimedia.org/wikipedia/commons/3/3c/Linux_Professional_Institute_logo.svg) **LPI-1** — Linux Professional Institute
+📜 ![MCP](https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_certified_professional_logo.png) **MCP** — Microsoft Certified Professional
 
 
 
