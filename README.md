@@ -2,6 +2,10 @@
 🧠 Tenho uma vasta experiência em metodologia Agile, monitoramento de sistemas: Nagios, Zabbix, construção de dashboard e análise de audiometria: ELK, administração de sistemas Linux e Windows, arquitetura em AWS, construção de containers, virtualização de máquinas, criação de scripts, segurança em firewalls: Fortigate e PaloAlto, versionamento de códigos, experiência prática em televisão sobre IP, Wowza Streams, programação baseado na arquitetura MVC etc.
 🔗 [Meu Portfólio](https://acaluege.github.io/portfolio/)
 
+📫How to reach me:
+LinkedIn : Nikoo Asadnejad
+Email : acelso.emeniok@gmail.com
+
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
@@ -13,12 +17,7 @@
 📦 [eshop](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
 ## CERTIFICATED 
-📜 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Linux_Professional_Institute_logo.svg" alt="LPI-1" height="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_certified_professional_logo.png" alt="MCP" height="50" />
-</p>
+
 
 
 
