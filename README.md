@@ -19,9 +19,7 @@
 
 <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
 
-
-
-## MEUS PROJECTOS DISPONIVEL PARA TODOS 
+## MEUS PROJECTOS 
 📦 [Loja](https://github.com/portugalgit/eshop) — Loja online em desenvolvimento com Php, html, css e js.
 
 
