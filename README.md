@@ -14,7 +14,7 @@
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,debian,linux,mysql)](https://skillicons.dev)
 
 📺 **Televisão IPTV:**
 <p>
