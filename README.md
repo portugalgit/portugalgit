@@ -28,6 +28,10 @@
 ![Nordija](https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png)
 
 
+<img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="70"/>
+
+
+
 
 
 
