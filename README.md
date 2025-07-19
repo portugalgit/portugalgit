@@ -19,16 +19,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux Linux" width="40"/>
 
 📺 **Televisão IPTV:**
-
-<img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70"/>
-<img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="80"/>
-
-<img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70" style="vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="70" style="vertical-align: middle;"/>
-
 <p>
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="70" style="vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="80" style="vertical-align: middle;"/>
 </p>
 
 
