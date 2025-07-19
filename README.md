@@ -23,7 +23,9 @@
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70" style="vertical-align: middle; margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png" alt="Nordija" height="80" style="vertical-align: middle; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Ion_Television_logo.svg" alt="Ion" height="80" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Google_TV_logo.svg" alt="Ion" height="60" style="vertical-align: middle;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Google_TV_logo.svg" alt="Ion" height="60" style="vertical-align: middle; margin-right: 10px;"/>  
+  <img src="https://raw.githubusercontent.com/portugalgit/portugalgit/main/stb.png" alt="Stb" height="50" style="vertical-align: middle; "/>
+  
 </p>
 
 
