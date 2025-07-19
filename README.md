@@ -25,6 +25,9 @@
 ## MEUS PROJECTOS 
 🛒 [Loja](https://github.com/portugalgit/eshop) 🏫 [Escola](https://github.com/portugalgit/akival)
 
+![Nordija](https://raw.githubusercontent.com/portugalgit/portugalgit/main/nordi.png)
+
+
 
 
 
