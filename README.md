@@ -25,7 +25,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Ion_Television_logo.svg" alt="Ion" height="80" style="vertical-align: middle; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Google_TV_logo.svg" alt="Ion" height="60" style="vertical-align: middle;"/>   
 </p>
-## Meus projectos:
+
+📫**Meus projetos:**
 
 🛒 [Loja](https://github.com/portugalgit/eshop) 🏫 [Escola](https://github.com/portugalgit/akival)
 
