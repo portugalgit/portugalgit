@@ -16,8 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,linux,mysql)](https://skillicons.dev)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux Linux" width="40"/>
-
 📺 **Televisão IPTV:**
 <p>
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/09/wowza-media-systems-vector-logo.png" alt="Wowza" height="70" style="vertical-align: middle; margin-right: 10px;"/>
