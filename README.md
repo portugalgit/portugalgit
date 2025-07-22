@@ -15,7 +15,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
 ![Proxmox](https://img.shields.io/badge/Zimbra-serverMail-aero)
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,rocklinux,debian,ubuntu,windows,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,centos,debian,ubuntu,windows,linux,mysql)](https://skillicons.dev)
 
 📺 **Televisão IPTV:**
 <p>
