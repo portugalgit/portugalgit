@@ -12,8 +12,9 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
+![Opnsense](https://img.shields.io/badge/Opnsense-firewall-cyan)
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
-![Proxmox](https://img.shields.io/badge/Zimbra-serverMail-aero)
+![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-aero)
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,debian,ubuntu,windows,linux,mysql)](https://skillicons.dev)
 
