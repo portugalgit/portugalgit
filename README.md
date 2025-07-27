@@ -12,7 +12,7 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
-![Opnsense](https://img.shields.io/badge/Opnsense-firewall-cyan)
+![Opnsense](https://img.shields.io/badge/OPNsense-firewall-cyan)
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
 ![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-aero)
 
