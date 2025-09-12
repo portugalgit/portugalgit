@@ -15,7 +15,7 @@
 ![Exchange](https://img.shields.io/badge/Exchange-mail-cyan)
 ![O365](https://img.shields.io/badge/O365-mail-brown)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
-![PfSense](https://img.shields.io/badge/pfSense-orange)
+![PfSense](https://img.shields.io/badge/pfSense-firewall-orange)
 ![Opnsense](https://img.shields.io/badge/OPNsense-firewall-cyan)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![FortiMail](https://img.shields.io/badge/FortiMail-firewall-cyan)
