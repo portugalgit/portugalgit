@@ -17,6 +17,8 @@
 ![Opnsense](https://img.shields.io/badge/OPNsense-firewall-cyan)
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
 ![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-aero)
+![Exchange](https://img.shields.io/badge/Exchange-mail-cyan)
+![O365](https://img.shields.io/badge/O365-mail-brown)
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,debian,ubuntu,windows,linux,mysql)](https://skillicons.dev)
 
