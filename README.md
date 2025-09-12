@@ -10,6 +10,7 @@
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
+![PRTG](https://img.shields.io/badge/PRTG-monitoring-DarkCyan)
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
 ![Opnsense](https://img.shields.io/badge/OPNsense-firewall-cyan)
