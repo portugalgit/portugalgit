@@ -11,7 +11,7 @@
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![PRTG](https://img.shields.io/badge/PRTG-monitoring-DarkOliveGreen)
-![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-aero)
+![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-pink)
 ![Exchange](https://img.shields.io/badge/Exchange-mail-cyan)
 ![O365](https://img.shields.io/badge/O365-mail-brown)
 ![PaloAlto](https://img.shields.io/badge/PaloAlto-firewall-yellow)
