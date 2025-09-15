@@ -20,7 +20,7 @@
 ![Fortigate](https://img.shields.io/badge/Fortigate-firewall-lightgrey)
 ![FortiMail](https://img.shields.io/badge/FortiMail-firewall-cyan)
 ![Proxmox](https://img.shields.io/badge/Proxmox-vms-green)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-unix-absolute)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-unix-Absolute)
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github,gitlab,bitbucket,aws,vscode,gmail,docker,nginx,debian,ubuntu,windows,linux,mysql)](https://skillicons.dev)
 
