@@ -9,6 +9,7 @@
 🛠️ **Programação & Ferramentas:**
 
 ![Nagios](https://img.shields.io/badge/Nagios-monitoring-blue)
+![Naemon](https://img.shields.io/badge/Naemon-monitoring-purple)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![PRTG](https://img.shields.io/badge/PRTG-monitoring-DarkOliveGreen)
 ![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-pink)
