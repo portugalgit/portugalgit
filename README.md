@@ -12,7 +12,7 @@
 ![Naemon](https://img.shields.io/badge/Naemon-monitoring-purple)
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red)
 ![PRTG](https://img.shields.io/badge/PRTG-monitoring-DarkOliveGreen)
-![Grafana](https://img.shields.io/badge/Grafana-monitoring-rose)
+![Grafana](https://img.shields.io/badge/Grafana-monitoring-brown)
 ![NagVis](https://img.shields.io/badge/NagVis-monitoring-bronze)
 ![Zimbra](https://img.shields.io/badge/Zimbra-serverMail-pink)
 ![Exchange](https://img.shields.io/badge/Exchange-mail-cyan)
