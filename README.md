@@ -1,6 +1,7 @@
 ## SOBRE MIM 👋
 🧠 Tenho uma vasta experiência em metodologia Agile, monitoramento de sistemas: Nagios, Zabbix, construção de dashboard e análise de audiometria: ELK, administração de sistemas Linux e Windows, arquitetura em AWS, construção de containers, virtualização de máquinas, criação de scripts, segurança em firewalls: Fortigate e PaloAlto, versionamento de códigos, experiência prática em televisão sobre IP, Wowza Streams, programação baseado na arquitetura MVC etc.
-🔗 [Meu Portfólio][(https://portugalgit.github.io/portfolio/)
+🔗 [Meu Portfólio](https://portugalgit.github.io/portfolio/)
+
 
 📫**Entrar em contato:**
 - 📧 [acelso.emenio@gmail.com](mailto:acelso.emenio@gmail.com)  
