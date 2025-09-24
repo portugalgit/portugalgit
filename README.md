@@ -1,7 +1,7 @@
 ## SOBRE MIM 👋
 🧠 Profissional de TI com experiência em administração de sistemas Linux e Windows, monitoramento de infraestrutura com Nagios e Zabbix, e desenvolvimento em PHP. 
 Atuação em segurança de redes com Fortigate, OPNSense e PFSense, além de gestão de ambientes SAP. Experiência diferenciada em soluções de IPTV e streaming (Wowza, Nordija), 
-integrando tecnologia à inovação em mídia digital.🔗 [Meu Portfólio](https://portugalgit.github.io/portfolio/)
+integrando tecnologia à inovação em mídia digital.🔗 [Meu Portfólio](https://portugalgit.github.io/oi/)
 
 📫**Entrar em contato:**
 - 📧 [acelso.emenio@gmail.com](mailto:acelso.emenio@gmail.com)  
